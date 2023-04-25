@@ -1,0 +1,27 @@
+------------------------------------Sınıf:Motor------------------------------------
+
+	Fonksiyon:Motor
+
+		1.Javadoc Yorum:
+			Varsayılan kurucu fonksiyon
+
+
+	Fonksiyon:Motor
+
+		1.Javadoc Yorum:
+			
+			@param motorNo UUID olarak motor id
+			@return motor instance
+
+
+	Fonksiyon:void calistir
+
+		1.Javadoc Yorum:
+			calisiyor true yapılıyor
+
+
+	Fonksiyon:void durdur
+
+		1.Javadoc Yorum:
+			Motorun durdurulması 
+

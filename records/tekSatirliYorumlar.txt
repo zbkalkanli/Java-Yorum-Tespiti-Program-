@@ -1,0 +1,19 @@
+------------------------------------Sınıf:Motor------------------------------------
+
+	Fonksiyon:Motor
+
+		1.Tek Satırlı Yorum: 
+			false yapılıyor
+
+
+	Fonksiyon:String getMotorNo
+
+		1.Tek Satırlı Yorum: 
+			motor no getir
+
+
+	Fonksiyon:String toString
+
+		1.Tek Satırlı Yorum: 
+			durum belirlenmesi 
+

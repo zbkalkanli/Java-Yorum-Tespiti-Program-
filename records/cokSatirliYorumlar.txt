@@ -1,0 +1,14 @@
+------------------------------------Sınıf:Motor------------------------------------
+
+	Fonksiyon:Motor
+
+		1.Çok Satırlı Yorum:
+			Başlangıçta false 
+
+
+	Fonksiyon:Motor
+
+		1.Çok Satırlı Yorum:
+			Varolan bir motor no ile oluşturuluyor.
+			
+

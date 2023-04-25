@@ -1,0 +1,5 @@
+Programa verilecek olan java dosyasının "records" klasöründe olması gerekiyor. Lütfen java dosyasını onun içine koyup programı çalıştırınız.
+
+txt dosyaları da records klasöründe oluşturuluyor. Lütfen ona bakınız.
+
+Jar'ın çalışması için dist klasöründe cmd'nin açılması lazım. Aksi durumda çalışmıyor.
